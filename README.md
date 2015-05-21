@@ -1,1 +1,1 @@
-# galaxy-rest
+# galaxy-client-jquery
